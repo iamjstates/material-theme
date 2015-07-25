@@ -35,11 +35,11 @@
 				<key>stackGuide</key>
 				<string>#42424280</string>
 				<key>gutterForeground</key>
-				<string>#424242</string>
+				<string>#8E8E8E</string>
 				<key>findHighlight</key>
 				<string>#F8E71C</string>
 				<key>shadow</key>
-				<string>#00000010</string>					
+				<string>#00000010</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#444444</string>
+				<string>#8A8A8A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -74,7 +74,7 @@
 				<key>foreground</key>
 				<string>#CDD3DE</string> <!-- text colour -->
 			</dict>
-		</dict>			
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Punctuation</string>
@@ -739,7 +739,7 @@ meta.property-value support.constant.named-color.css</string>
 				<key>foreground</key>
 				<string>#FFEB95</string>
 			</dict>
-		</dict>		
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>CSS: Property-name</string>
